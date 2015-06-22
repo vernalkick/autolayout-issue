@@ -2,6 +2,8 @@
 
 I'd like to have an image view that has a fixed width and a height that is a multiplier of that width inside a TableView Cell.
 
+![](http://cl.ly/image/0l230h3x2Z0a/1)
+
 These are the constraints I've set up:
 
 ```swift
@@ -31,3 +33,5 @@ Will attempt to recover by breaking constraint
 Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
 The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
 ```
+
+Any ideas?
